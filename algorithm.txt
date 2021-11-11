@@ -1,0 +1,7 @@
+1. Read the input Expression
+
+2. Check whether input is alphabet or digits then store it as identifier
+
+3. If the input is is operator store it as symbol
+
+4. Check the input for keywords
